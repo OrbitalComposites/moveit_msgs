@@ -1,5 +1,7 @@
 # MoveIt Msgs
 
+This is a special fork of the moveit_msgs package to adjust the MotionPlanRequest message definition slightly to match an updated variable name in ROS2 version.
+
 This package includes the ROS messages specific to MoveIt
 
 ## GitHub Actions - Continuous Integration
